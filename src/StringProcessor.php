@@ -7,6 +7,6 @@ namespace IgorKachko\OtusComposerPackage;
 class StringProcessor
 {
     public function getLength(string $s): int {
-        return strlen($s);
+        return mb_strlen($s);
     }
 }
