@@ -8,7 +8,7 @@
 
 ## Установка
 
-composer require dmitry-kirillov/otus-composer-package
+composer require igor-kachko/otus-composer-package
 
 ## Использование
 
