@@ -1,0 +1,15 @@
+{
+    "name": "igor-kachko/otus-composer-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "IgorKachko\\OtusComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "IgorKachko"
+        }
+    ],
+    "require": {}
+}
