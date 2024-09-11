@@ -11,5 +11,7 @@
             "name": "IgorKachko"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7"
+    }
 }
